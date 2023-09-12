@@ -1,11 +1,7 @@
 ### <div align="center">Hola!👋
 Mi nombre es Julia Franchi, nací el 23/09/1996 y vivo en Buenos Aires Argentina, estoy incursionando en esta nueva experiencia de ser desarrollador web Frontend.</div>  
-  
-
-- 🔭 Mi ultimo trabajo fue: https://github.com/juf468/Pi-drivers
      
-🔭 También contribuí en: https://github.com/SELPROIT/client  
-  
+-🔭  contribuí en: https://github.com/SELPROIT/client  
 
 - -🌱 Estudie en Henry bootcamp, en mi experiencia, he adquirido habilidades en diversas tecnologías de desarrollo, incluyendo JavaScript, HTML, CSS, Node.js, React, Redux y SQL. Estas tecnologías me han permitido desarrollar aplicaciones web completas y dinámicas, trabajando tanto en el frontend como en el backend para crear soluciones eficientes y atractivas. También he utilizado herramientas complementarias para optimizar el proceso de desarrollo y garantizar la calidad del producto final.  
   
